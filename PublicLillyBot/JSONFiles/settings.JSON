@@ -1,0 +1,6 @@
+{
+    "_comment": "Settings for the LillyBot, such as admin channel number, admin reporter, etc.",
+    "admin_channel": 000000000000,
+    "reporter_id": 000000000000,
+    "server_id": 000000000000
+}
